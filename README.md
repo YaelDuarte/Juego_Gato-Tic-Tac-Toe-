@@ -25,6 +25,9 @@ Proyecto enfocado en practicar **POO, control de turnos, validaciones y lógica 
 
 ---
 
+## Imagenes de funcionamiento del juego
+<img width="591" height="644" alt="image" src="https://github.com/user-attachments/assets/c13a90e6-ecc8-4e66-9cb6-49a74a8f4dc9" />
+
 ## Cómo ejecutar el juego
 
 ### Opción 1: Desde el JAR
@@ -32,4 +35,5 @@ Proyecto enfocado en practicar **POO, control de turnos, validaciones y lógica 
 ```bash
 java -version
 java -jar JuegoGato.jar
+
 
